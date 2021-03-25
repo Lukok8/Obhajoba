@@ -45,3 +45,17 @@ The following packages were added:
   com.unity.ugui@1.0.0
 The following packages were updated:
   com.unity.postprocessing from version 2.1.4 to 2.3.0
+
+=== Thu Mar 25 10:53:50 2021
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.2d.sprite@1.0.0
+  com.unity.2d.tilemap@1.0.0
+  com.unity.ext.nunit@1.0.0
+  com.unity.google.resonance.audio@2.0.0
+  com.unity.ide.visualstudio@1.0.11
+  com.unity.polybrush@1.0.1
+  com.unity.probuilder@4.2.3
